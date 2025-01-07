@@ -10,3 +10,4 @@
 # Testing Code 7
 # Jai Shree Krishna
 #hello
+#do not give Samarth ownership
